@@ -35,3 +35,6 @@ I am choosing to use R Square here since it determines how good the best fit lin
 #### The performance metric used here is R square.
 #### 9. Based on the output of the baseline model we can train complex models like stacking models and gradient boosted trees.
 #### 10. Concluded that the RandomForest trained on Selected Features by RandomForest model is giving highest score of all Public Score: 0.55468 and Private score: 0.54815 on Kaggle
+
+## Conclusion: 
+##### the RandomForest trained on Selected Features by RandomForest model is giving highest score of all Public Score: 0.55468 and Private score: 0.54815 on Kaggle
